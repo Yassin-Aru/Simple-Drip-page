@@ -1,0 +1,10 @@
+ 
+  <audio data-key="65" id="reloadable" src="http://www.dropbox.com/s/o7og85daizlcaem/clap.wav?dl=1"></audio> <!--clap-->
+  <audio data-key="83" id="reloadable" src="http://www.dropbox.com/s/ocug6873hg3u8j4/hihat.wav?dl=1"></audio> <!--hihat-->
+  <audio data-key="68" id="reloadable" src="http://www.dropbox.com/s/scqp6lm0vp8brmf/kick.wav?dl=1"></audio> <!--kick-->
+  <audio data-key="70" id="reloadable" src="http://www.dropbox.com/s/y23uid7p9ua6z87/openhat.wav?dl=1" onerror="reloadPage(this)"></audio> <!--openhat f2l-->
+  <audio data-key="71" id="reloadable" src="http://www.dropbox.com/s/56hm7vkhmyc6wdr/boom.wav?dl=1"></audio> <!--boom f2l-->
+  <audio data-key="72" id="reloadable" src="http://www.dropbox.com/s/wklk8vdpqhu7pds/ride.wav?dl=1"></audio> <!--ride f2l-->
+  <audio data-key="74" id="reloadable" src="http://www.dropbox.com/s/3rbwyqxzaphf31w/snare.wav?dl=1"></audio> <!--snare-->
+  <audio data-key="75" id="reloadable" src="http://www.dropbox.com/s/ej876bhfitejp3h/tom.wav?dl=1"></audio> <!--tom f2l-->
+  <audio data-key="76" id="reloadable" src="http://www.dropbox.com/s/lk2slufka07rpcg/tink.wav?dl=1"></audio> <!--tink-->
